@@ -1,1 +1,1 @@
-# hotel-reservation-site-react
+# booking-app-react
