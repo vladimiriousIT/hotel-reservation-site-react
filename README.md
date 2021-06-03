@@ -1,1 +1,1 @@
-# booking-app-react
+# react-booking-app
